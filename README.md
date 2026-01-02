@@ -1,1 +1,1 @@
-# game-2d-huhu
+Git Hello world example for Codegym.
