@@ -1,1 +1,1 @@
-Git Hello world example for Codegym.
+ Hello  Codegym.
