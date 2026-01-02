@@ -1,0 +1,19 @@
+
+using System;
+
+class Program
+{
+    static void Main()
+    {
+        Console.Write("Nhập chiều rộng: ");
+        double width = Convert.ToDouble(Console.ReadLine());
+
+        Console.Write("Nhập chiều cao: ");
+        double height = Convert.ToDouble(Console.ReadLine());
+
+        double area = width * height;
+
+        Console.WriteLine("Diện tích hình chữ nhật là: " + area);
+        Console.ReadLine();
+    }
+}
